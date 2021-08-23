@@ -1,7 +1,7 @@
 import "../styles/grid.css";
-import { Amplify } from "aws-amplify";
+//import { Amplify } from "aws-amplify";
 
-Amplify.configure({ ssr: true });
+//Amplify.configure({ ssr: true });
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
