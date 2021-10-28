@@ -15,6 +15,11 @@ export default function () {
             <a>Contact Form</a>
           </Link>
         </li>
+        <li>
+          <Link href="/content-refresh">
+            <a>Contact Refresh (ISR Test)</a>
+          </Link>
+        </li>
       </ul>
     </div>
   );
